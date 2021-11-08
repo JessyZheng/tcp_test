@@ -1,0 +1,4 @@
+/home/huanyu/workspace/test/tcp_json/test_tcp/build/CMakeFiles/edit_cache.dir
+/home/huanyu/workspace/test/tcp_json/test_tcp/build/CMakeFiles/rebuild_cache.dir
+/home/huanyu/workspace/test/tcp_json/test_tcp/build/CMakeFiles/test_json_server.dir
+/home/huanyu/workspace/test/tcp_json/test_tcp/build/CMakeFiles/test_json_client.dir

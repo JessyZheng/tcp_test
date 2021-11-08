@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11  -rdynamic CMakeFiles/test_json_client.dir/tcp_json_client.cpp.o CMakeFiles/test_json_client.dir/tcp_session.cpp.o  -o test_json_client -ljsoncpp 

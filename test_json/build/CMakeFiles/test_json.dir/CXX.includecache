@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/huanyu/workspace/test/tcp_json/test_json/test_json.cpp
+iostream
+-
+json/json.h
+-
+fstream
+-
+string
+-
+
