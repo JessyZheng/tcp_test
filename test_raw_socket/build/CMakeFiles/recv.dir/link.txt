@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/recv.dir/recv.cpp.o  -o recv -ljsoncpp 

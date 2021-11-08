@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/send.dir/send.cpp.o  -o send -ljsoncpp 
